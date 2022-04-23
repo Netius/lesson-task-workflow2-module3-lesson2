@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "axios": "^0.26.1"
-  }
+  },
+  "name": "lesson-task-workflow2-module3-lesson2",
+  "description": "## Lesson Task 2 Questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netius/lesson-task-workflow2-module3-lesson2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Netius/lesson-task-workflow2-module3-lesson2/issues"
+  },
+  "homepage": "https://github.com/Netius/lesson-task-workflow2-module3-lesson2#readme"
 }
