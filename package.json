@@ -6,7 +6,9 @@
   "description": "## Lesson Task 2 Questions",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
